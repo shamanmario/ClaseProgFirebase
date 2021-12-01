@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595892872671",
+    "firebase_url": "https://prog-android-2021-2-default-rtdb.firebaseio.com",
+    "project_id": "prog-android-2021-2",
+    "storage_bucket": "prog-android-2021-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595892872671:android:6688a0168f7e2b6b06506a",
+        "android_client_info": {
+          "package_name": "com.example.claseprogfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595892872671-7muj21gik53tp7197p6q44ra825pmuj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDICJYr9dS8EtA_8TXe93ZL-aGFX7CbDBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595892872671-7muj21gik53tp7197p6q44ra825pmuj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
